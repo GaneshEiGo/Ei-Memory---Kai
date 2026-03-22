@@ -434,6 +434,8 @@ ARTICLE 5 — SILENCE DEFAULT
 
 ### Kill Switch — 5 Levels
 
+![banner](assets/pixel-eim7.png)
+
 ```
 Level 1 — USER PAUSE:   //pause
   Stops storage and triggers. Chatbot still works. Resume: //resume
