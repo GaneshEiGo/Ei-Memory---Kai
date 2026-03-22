@@ -173,7 +173,7 @@ PIXEL-E is the only visible sign that something powerful is running underneath y
 PIXEL-E EXPRESSION GUIDE:
 
 <p align="center">
-  <img src="assets/pixel-eimt1.png" width="900">
+  <img src="pixel-eimt1.png" width="900">
 </p>
 
 **State color rule:** When any special state activates, the body green **disappears completely** and the state color replaces it entirely. No mixing. When the state ends, green returns.
