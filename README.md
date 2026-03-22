@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="pixel-eim1.png" width="100%" />
+</div>
+
+<h1 align="center">KAI — Ei Memory</h1>
+
+<p align="center">
+The memory intelligence layer that evolves with you.
+</p>
+
+
 # KAI — Ei Memory
 
 ![banner](assets/pixel-eim1.png)
