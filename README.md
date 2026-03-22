@@ -2,26 +2,6 @@
 
 ![banner](assets/pixel-eim1.png)
 
-<div align="center">
-
-```
-         ░░░░░░░░░░░░░░░░
-       ░░                ░░
-      ░   ▓▓          ▓▓   ░
-      ░                    ░      K  A  I
-      ░       ────         ░
-       ░░                ░░    Knowledge Ambient
-         ░░░░░░░░░░░░░░░░      Intelligence
-               │
-             ──┼──
-         ░░░░░░░░░░░░░░░░░░
-         ░  ┌────────────┐  ░
-         ░  │    KAI     │  ░
-         ░  └────────────┘  ░
-         ░░░░░░░░░░░░░░░░░░
-              ░      ░
-```
-
 **The memory intelligence layer that sits underneath your entire digital life.**
 
 *Zero Cost · Runs Offline · Owned Entirely By You · No Servers · No Subscriptions*
