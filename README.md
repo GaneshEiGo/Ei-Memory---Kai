@@ -1,5 +1,7 @@
 # KAI — Ei Memory
 
+![banner](assets/pixel-eim1.png)
+
 <div align="center">
 
 ```
