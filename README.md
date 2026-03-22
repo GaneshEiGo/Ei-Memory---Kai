@@ -572,6 +572,8 @@ Game process detected      → KAI fully suspended, zero resources
 
 The most human feature of KAI. You set a timer with a **reason**. KAI reads the reason, understands what is about to happen, prepares a complete brief, gives you a 5-minute breathing window, then disappears completely.
 
+![banner](assets/pixel-eim4.png)
+
 ```
 //timer 2h Google APM interview at 3pm today
 
@@ -814,6 +816,8 @@ Goal progress: Data Analyst Job +2% → 37% total
 ## Living Idea Evolution
 
 Ideas in KAI are not static notes. They are **living objects** that grow, connect, evolve, and reach out when they are ready.
+
+![banner](assets/pixel-eim9.png)
 
 ```
 //idea show EiCity
@@ -1249,30 +1253,6 @@ kai-ei-memory/
 ├── scripts/           ← Install, health check, API setup wizard
 └── .github/           ← CI/CD workflows, issue templates
 ```
-
----
-
-## Build It (10 Days Vibe Coding)
-
-Complete version. One shot. Zero rupees. No v1, v2, v3.
-
-```
-DAY 0:  Setup — repo, folders, API keys, health check (2h)
-DAY 1:  Memory foundation — store, FAISS, graph, noise filter
-DAY 2:  Ghost/crystal, entity extraction, confidence, DNA
-DAY 3:  Context assembly + full 10-layer LLM pipeline ← KAI is alive
-DAY 4:  PyQt6 chatbot + PIXEL-E all 13 states + 4 tabs
-DAY 5:  Auto-capture + complete AEGIS safety protocol
-DAY 6:  All 4 freedom modes + encrypted backup/restore
-DAY 7:  App integration + sleep engine + timeline + web search
-DAY 8:  All smart features + living ideas + 80+ commands
-DAY 9:  Complete persona debate system (most complex day)
-DAY 10: Integration test, fix, tests, docs, sprites, deploy
-```
-
-**Method:** Describe each module to Claude/Cursor. AI writes Python. You test it. Point out what is wrong. AI fixes it. Test again. Move on only when it works.
-
-**Vibe coding cuts time roughly in half.** But test every module before building on top of it. A broken foundation breaks everything.
 
 ---
 
