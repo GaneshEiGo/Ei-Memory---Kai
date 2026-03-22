@@ -172,19 +172,9 @@ PIXEL-E is the only visible sign that something powerful is running underneath y
 ```
 PIXEL-E EXPRESSION GUIDE:
 
-Idle:         ░ ▓▓ ▓▓ ░   Normal green   Antenna straight   Chest: KAI
-Thinking:     ░ ·  · ░    Normal green   Antenna spinning   Chest: >_<
-Memory ★:     ░ ★  ★ ░    Normal green   Sparkle top        Chest: SAVE!
-Insight:      ░ !  ! ░    Normal green   Flashing rapid     Chest: !!!
-Crystal ♥:    ░ ♥  ♥ ░    Light green    Glowing top        Chest: ★
-Ghost ○:      ░ ○  ○ ░    40% opacity    Faded              Chest: ···
-Sleep:        ░ ── ── ░   Dark #2D2D2D   Drooped            Chest: ZZZ
-Private ×:    ░ ×  × ░    Blue #1565C0   Shield pixel       Chest: OFF
-Warning ⚠:    ░ ⚠  ⚠ ░   Orange #E65100 Flashing           Chest: !!!
-Kill switch:  ░ □  □ ░    Red #B71C1C    Frozen             Chest: STOP
-Stopped:      ░ □  □ ░    Gray #616161   Static             Chest: ---
-God Mode:     ░ ◈  ◈ ░    Purple #4A148C Crown pixel        Chest: GOD
-```
+<p align="center">
+  <img src="assets/pixel-eimt1.png" width="900">
+</p>
 
 **State color rule:** When any special state activates, the body green **disappears completely** and the state color replaces it entirely. No mixing. When the state ends, green returns.
 
