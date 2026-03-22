@@ -167,19 +167,21 @@ KAI:  Complexity: 58/100 — launching 42-persona debate...
 
 ## PIXEL-E — The Soul of KAI
 
-PIXEL-E is the only visible sign that something powerful is running underneath your device. A small green pixel robot in your system tray. Pure pixel art. 32×32 grid. Maximum expression from minimum pixels.
+PIXEL-E is the only visible sign that something powerful is running underneath your device.  
+A small green pixel robot in your system tray. Pure pixel art. 32×32 grid. Maximum expression from minimum pixels.
 
-```
-PIXEL-E EXPRESSION GUIDE:
+### PIXEL-E EXPRESSION GUIDE
 
-![test](pixel-eimt1.png)
+<p align="center">
+  <img src="assets/pixel-eimt1.png" width="900">
+</p>
 
 **State color rule:** When any special state activates, the body green **disappears completely** and the state color replaces it entirely. No mixing. When the state ends, green returns.
 
 **PIXEL-E evolves with you:**
-- Day 1: 24×24, simple, 8 expressions
-- Month 1: Full 32×32, all 13 expressions unlocked
-- Year 1: Golden pixel tip on antenna. Special anniversary animation.
+- Day 1: 24×24, simple, 8 expressions  
+- Month 1: Full 32×32, all 13 expressions unlocked  
+- Year 1: Golden pixel tip on antenna. Special anniversary animation  
 
 *Like a Tamagotchi met a terminal. Technical enough to trust. Warm enough to welcome.*
 
