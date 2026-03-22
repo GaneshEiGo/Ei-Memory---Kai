@@ -1133,6 +1133,8 @@ TOTAL: Zero Rupees. Forever.
 
 ## App Integration — KAI as Universal Layer
 
+![banner](assets/pixel-eim11.png)
+
 KAI is the memory substrate that every other app reads from.
 
 ### Method 1: Your Own Apps (EiCity, EiGo City, EiChat)
