@@ -1,11 +1,15 @@
-<div align="center">
-  <img src="assets/pixel-eim1.png" width="100%" />
-</div>
+<p align="center">
+  <img src="assets/pixel-eim1.png" width="800">
+</p>
 
-<h1 align="center">KAI — Ei Memory</h1>
+<h1 align="center">EI MEMORY - KAI</h1>
 
 <p align="center">
-The memory intelligence layer that evolves with you.
+  The memory intelligence layer that evolves with you.
+</p>
+
+<p align="center">
+  Zero Cost · Runs Offline · Owned By You · No Servers
 </p>
 
 
